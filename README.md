@@ -18,7 +18,9 @@ https://user-images.githubusercontent.com/55353663/145537919-da3384de-db31-4654-
  
 https://user-images.githubusercontent.com/55353663/145886093-9cf76907-e985-43b7-9305-4d0f2d83bb7a.mp4
 
-- #### For all other projects, see the corresponding repositories for documents
+### Further exploration
+- ### Check out my pinned repositories below
+- #### Other unpinned projects include code from course tasks and repositories that are not yet complete
 
 
 
