@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/55353663/145537919-da3384de-db31-4654-
 
 - #### Semester Project on Incremental map based segmentation
   - [Project Paper PDF](https://github.com/Zador-Pataki/Incremental-map-based-semantic-segmentation/files/7706878/PLR.pdf)
-  - Project Video
+  - Project Video:
  
 https://user-images.githubusercontent.com/55353663/145886093-9cf76907-e985-43b7-9305-4d0f2d83bb7a.mp4
 
