@@ -2,7 +2,9 @@
 I am interested in anything Machine Learning, with a background in applications in Robotics, Computer Vision and Computational Science.
 
 ### As an intro, check out some media from my work:
-- #### Bachelor Thesis on Physics informed Neural Networks
+- #### Publication in Domain Adaptation
+-   [LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation](https://arxiv.org/abs/2211.11870)
+- #### Bachelor Thesis on Phy[ics informed Neural Networks
   - [Bachelor Thesis PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7711682/Physics_Informed_NN.pdf)
   - [Presentation PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7719785/thesis_presentation.pdf)
 - #### Robot Arm Competition Winner
