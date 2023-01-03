@@ -3,7 +3,7 @@ I am interested in anything Machine Learning, with a background in applications 
 
 ### As an intro, check out some media from my work:
 - #### Publication in Domain Adaptation
-  - [LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation](https://arxiv.org/abs/2211.11870)
+  - [LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/html/Shen_LoopDA_Constructing_Self-Loops_To_Adapt_Nighttime_Semantic_Segmentation_WACV_2023_paper.html)
 - #### Bachelor Thesis on Phy[ics informed Neural Networks
   - [Bachelor Thesis PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7711682/Physics_Informed_NN.pdf)
   - [Presentation PDF](https://github.com/Zador-Pataki/Physics-Informed-Neural-Networks/files/7719785/thesis_presentation.pdf)
