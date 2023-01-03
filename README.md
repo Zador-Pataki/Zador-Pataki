@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/55353663/145886093-9cf76907-e985-43b7-
 
 ### Further exploration
 - #### Check out my pinned repositories below
-- #### Other unpinned projects include code from course tasks and repositories that are not yet complete
+- #### Univercity-Archive is an archive of projects during my Master's Degree and University related files such as transcript of records
 
 
 
